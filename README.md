@@ -72,7 +72,7 @@ The Service Management API is open source and released under the [MIT License](h
 
 ## Contact
 
-For any questions or inquiries, please contact the project maintainer at [your-email@example.com](mailto:gersimuca@aol.com).
+For any questions or inquiries, please contact the project maintainer at [gersimuca@aol.com](mailto:gersimuca@aol.com).
 
 Happy coding!`
 2. Install Java: Make sure you have Java Development Kit (JDK) installed on your system.
@@ -96,4 +96,4 @@ The Service Management API is open source and released under the [MIT License](h
 
 ## Contact
 
-For any questions or inquiries, please contact the project maintainer at [your-email@example.com](mailto:gersimuca@aol.com).
+For any questions or inquiries, please contact the project maintainer at [gersimuca@aol.com](mailto:gersimuca@aol.com).
