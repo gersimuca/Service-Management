@@ -1,0 +1,1 @@
+### JSON Web Tokens (JWT) for authentication and authorization, a jwt often created to hold classes related to JWT handling, token generation, validation, or decoding.

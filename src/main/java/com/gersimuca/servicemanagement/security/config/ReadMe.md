@@ -1,0 +1,1 @@
+### Contains security-related configuration, such as SecurityConfig, WebSecurityConfig or other classes responsible for configuring security settings mechanism

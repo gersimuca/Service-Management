@@ -1,0 +1,1 @@
+### The model package usually contains your domain model classes, representing the core entities and business logic of application.

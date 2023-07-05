@@ -1,0 +1,1 @@
+### Can contain utility classes or helper methods related to security, such as encryption utilities, password hashing utilities, or access control utilities.
