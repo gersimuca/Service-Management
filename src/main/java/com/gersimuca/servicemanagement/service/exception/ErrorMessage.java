@@ -1,4 +1,4 @@
-package com.gersimuca.servicemanagement.service;
+package com.gersimuca.servicemanagement.service.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

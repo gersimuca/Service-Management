@@ -1,4 +1,4 @@
-package com.gersimuca.servicemanagement.service;
+package com.gersimuca.servicemanagement.service.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

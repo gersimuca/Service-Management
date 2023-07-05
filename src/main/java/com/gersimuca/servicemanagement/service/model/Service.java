@@ -1,4 +1,4 @@
-package com.gersimuca.servicemanagement.service;
+package com.gersimuca.servicemanagement.service.model;
 
 import jakarta.persistence.*;
 import lombok.*;
