@@ -1,0 +1,2 @@
+### The dto (Data Transfer Object) package typically contains classes that represent data transfer objects. 
+### These objects are used to transfer data between different layers of application, such as between the controller and service layer.

@@ -1,0 +1,2 @@
+### If we have security-specific services or helper classes, organizing them in a service can be useful. 
+### These services might handle authentication, authorization, user management, or other security-related operations.

@@ -1,0 +1,1 @@
+### Contains configuration classes for your application, including Spring configuration files, security configuration, database configuration, and other third-party integrations.

@@ -1,0 +1,1 @@
+### Include custom exception classes specific to security-related errors or failures, allowing to handle and respond to security exceptions appropriately.
