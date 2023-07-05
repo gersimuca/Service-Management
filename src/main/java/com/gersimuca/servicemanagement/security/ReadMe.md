@@ -1,0 +1,2 @@
+### This package is used to handle security related concerns in the application.
+### It can include classes for authentication, authorization, and any other security-related components or configuration
