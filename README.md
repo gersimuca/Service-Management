@@ -50,7 +50,7 @@ The Service Management API is built using the following technologies:
 
 To get started with the Service Management API, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/gersimuca/Single-Number-II`
+1. Clone the repository: `https://github.com/gersimuca/Service-Management.git`
 2. Install Java: Make sure you have Java Development Kit (JDK) installed on your system.
 3. Set up the database: Configure your database system and update the necessary credentials in the application configuration.
 4. Build the project: Navigate to the project directory and build the project using your preferred build tool (e.g., Maven or Gradle).
